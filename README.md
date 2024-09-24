@@ -1,2 +1,2 @@
-# My-First-repo
+# My First repo
 week 1
